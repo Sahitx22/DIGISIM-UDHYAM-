@@ -1,2 +1,2 @@
-# DIGISIM-UDHYAM-
+# DIGISIM-UDYAM-
 Digisim implementation
